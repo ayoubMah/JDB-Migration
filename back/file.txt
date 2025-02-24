@@ -1,5 +1,0 @@
-Hello world
-vim
-
-good afternoon
-Hi ayoub
